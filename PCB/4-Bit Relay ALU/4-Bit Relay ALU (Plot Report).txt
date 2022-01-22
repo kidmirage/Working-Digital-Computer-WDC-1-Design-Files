@@ -1,0 +1,236 @@
+Plot Report
+-----------
+
+Report Written:     Sunday, December 08, 2019
+Design Path:        C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU.pcb
+Design Title:       
+Created:            11/30/2019 5:15:58 PM
+Last Saved:         12/8/2019 5:15:23 PM
+Editing Time:       795 min
+Units:              inches (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in mm.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Top Documentation.gbr
+
+    Layers:
+    ---------------------
+    Top Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D25    Round 1.00
+
+Gerber Output
+=============
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 10.00
+    D11    Round 7.87
+    D12    Round 5.00
+
+Gerber Output
+=============
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Top Copper.gbr
+
+    Layers:
+    ------------------
+    Top Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 5.00
+    D13    Round 60.00
+    D14    Round 175.00
+    D15    Square 51.18
+    D16    Round 51.18
+    D17    Round 64.96
+    D18    Square 64.96
+    D19    Round 15.00
+    D26    Round 48.00
+
+Gerber Output
+=============
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D70    Round 66.00
+    D71    Round 181.00
+    D20    Square 57.18
+    D21    Round 57.18
+    D22    Round 70.96
+    D23    Square 70.96
+    D27    Round 54.00
+
+Gerber Output
+=============
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D13    Round 60.00
+    D14    Round 175.00
+    D15    Square 51.18
+    D16    Round 51.18
+    D17    Round 64.96
+    D18    Square 64.96
+    D19    Round 15.00
+    D26    Round 48.00
+
+Gerber Output
+=============
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D70    Round 66.00
+    D71    Round 181.00
+    D20    Square 57.18
+    D21    Round 57.18
+    D22    Round 70.96
+    D23    Square 70.96
+    D27    Round 54.00
+
+NC Drill Output
+===============
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02400 inches 28    E
+    T002  0.03150 inches 128   C
+    T003  0.03500 inches 32    A
+    T004  0.04331 inches 24    D
+    T005  0.12500 inches 4     B
+    --------------------------------------
+    Total                216
+    --------------------------------------
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\micha\Desktop\Prusa\Gardiac\PCB\4-Bit Relay ALU\4-Bit Relay ALU - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    35    Y      100  Round A
+    125   Y      100  Round B
+    31    Y      100  Round C
+    43    Y      100  Round D
+    24    Y      100  Round E
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 5.00
+    D24    Round 100.00
+
+End Of Report.

@@ -1,0 +1,65 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Thursday, March 19, 2020
+Design Path:        C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder.pcb
+Design Title:       
+Created:            2019-12-06 3:48:32 PM
+Last Saved:         2020-03-19 12:23:58 PM
+Editing Time:       1494 min
+Units:              thou (precision 0)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.

@@ -1,0 +1,63 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Sunday, January 05, 2020
+Design Path:        C:\Users\micha\Desktop\Prusa\WDC 1\PCB\4-Bit Relay ALU\4-Bit Relay ALU.pcb
+Design Title:       
+Created:            11/30/2019 5:15:58 PM
+Last Saved:         1/5/2020 7:48:13 PM
+Editing Time:       7039 min
+Units:              inches (precision 3)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.

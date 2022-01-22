@@ -1,0 +1,232 @@
+Plot Report
+-----------
+
+Report Written:     Thursday, March 19, 2020
+Design Path:        C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder.pcb
+Design Title:       
+Created:            2019-12-06 3:48:32 PM
+Last Saved:         2020-03-19 12:23:58 PM
+Editing Time:       1498 min
+Units:              thou (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2
+    Format 3.5 absolute in inches.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder.mop"
+
+
+Gerber Output
+=============
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Top Documentation.gbr
+
+    Layers:
+    ---------------------
+    Top Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 1.00
+    D11    Round 1.97
+
+Gerber Output
+=============
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 1.00
+    D12    Round 5.00
+    D13    Round 7.87
+
+Gerber Output
+=============
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Top Copper.gbr
+
+    Layers:
+    ------------------
+    Top Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D12    Round 5.00
+    D14    Round 15.00
+    D15    Round 48.00
+    D16    Round 60.00
+    D17    Round 175.00
+    D18    Square 44.49
+    D19    Round 44.49
+    D70    Rectangle 60.00 X 80.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D71    Round 70.00
+    D20    Round 185.00
+    D21    Square 54.49
+    D22    Round 54.49
+    D23    Rectangle 70.00 X 90.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D14    Round 15.00
+    D15    Round 48.00
+    D16    Round 60.00
+    D17    Round 175.00
+    D18    Square 44.49
+    D19    Round 44.49
+    D70    Rectangle 60.00 X 80.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D71    Round 70.00
+    D20    Round 185.00
+    D21    Square 54.49
+    D22    Round 54.49
+    D23    Rectangle 70.00 X 90.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02400 inches 65    A
+    T002  0.02874 inches 126   D
+    T003  0.03000 inches 32    E
+    T004  0.03500 inches 38    B
+    T005  0.12500 inches 4     C
+    --------------------------------------
+    Total                265
+    --------------------------------------
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+C:\Prusa\WDC 1\PCB\4 to 16 Decoder\4 to 16 Decoder - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    24    Y      100  Round A
+    35    Y      100  Round B
+    125   Y      100  Round C
+    29    Y      100  Round D
+    30    Y      100  Round E
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 5.00
+    D24    Round 100.00
+
+End Of Report.
